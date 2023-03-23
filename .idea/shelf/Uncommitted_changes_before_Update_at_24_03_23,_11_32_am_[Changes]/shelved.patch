@@ -1,0 +1,15 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Maven_Cucumber_Test\npulgin updates\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 4727d3f63abbc4a9e46299961779c132fc678ec1)
++++ b/README.md	(date 1679610721883)
+@@ -1,2 +1,3 @@
+ # Maven_Cucumber_Test
+ pulgin updates
++test one
+\ No newline at end of file

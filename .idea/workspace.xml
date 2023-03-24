@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39c52858-2463-4055-a6f8-bbb82a6afa44" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="39c52858-2463-4055-a6f8-bbb82a6afa44" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,6 +101,7 @@
       <workItem from="1679610632314" duration="5000" />
       <workItem from="1679610665645" duration="935000" />
       <workItem from="1679620145472" duration="12000" />
+      <workItem from="1679620169776" duration="918000" />
     </task>
     <task id="LOCAL-00001" summary=" Maven-surefire-Plugin   &lt;configuration&gt;&#10; &lt;include&gt;CucumberTestRunner.java&lt;/include&gt;">
       <created>1679535143870</created>
@@ -133,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679610958481</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test jenkins">
+      <created>1679620247015</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679620247015</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +146,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" Maven-surefire-Plugin   &lt;configuration&gt;&#10; &lt;include&gt;CucumberTestRunner.java&lt;/include&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Maven-surefire-Plugin   &lt;configuration&gt;&#10; &lt;include&gt;CucumberTestRunner.java&lt;/include&gt;" />
+    <MESSAGE value="test jenkins" />
+    <option name="LAST_COMMIT_MESSAGE" value="test jenkins" />
   </component>
 </project>

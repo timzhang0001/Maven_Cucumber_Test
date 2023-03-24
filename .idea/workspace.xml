@@ -102,6 +102,7 @@
       <workItem from="1679610665645" duration="935000" />
       <workItem from="1679620145472" duration="12000" />
       <workItem from="1679620169776" duration="918000" />
+      <workItem from="1679621164742" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary=" Maven-surefire-Plugin   &lt;configuration&gt;&#10; &lt;include&gt;CucumberTestRunner.java&lt;/include&gt;">
       <created>1679535143870</created>
@@ -138,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679620247015</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test jenkins">
+      <created>1679621184609</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679621184609</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
